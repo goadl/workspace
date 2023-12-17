@@ -1,0 +1,6 @@
+[submodule "rt"]
+	path = rt
+	url = git@github.com:goadl/rt.git
+[submodule "goadlc"]
+	path = goadlc
+	url = git@github.com:goadl/goadlc.git
